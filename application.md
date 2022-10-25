@@ -36,13 +36,14 @@ User manual consists of the following sections
 <li> Registered User-Privilege</li>
 </ul>
 </ol>
-  </ol>
-### General Information
+  <ul>General Information</ul>
 <p>Section explains in general terms the pick fresh application overview and the sections of the user manual.</p>
-### System Summary
+  <ul>System Summary</ul>
 <p>Section explains about the hardware and software requirements for accessing application and user access levels.</p>
-### How to download application
+  <ul>How to download application</ul>
 <p>Section explains the options available to download the pick fresh Android application in your mobile.</p>
-### Using the application
+  <ul>Using the application</ul>
 <p>Section provides a detailed description of the functionalities of the pick fresh application.</p>
+</ol>
+
 
