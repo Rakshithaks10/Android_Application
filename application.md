@@ -36,14 +36,25 @@ User manual consists of the following sections
 <li> Registered User-Privilege</li>
 </ul>
 </ol>
+  
   <ul>General Information</ul>
 <p>Section explains in general terms the pick fresh application overview and the sections of the user manual.</p>
+  
   <ul>System Summary</ul>
-<p>Section explains about the hardware and software requirements for accessing application and user access levels.</p>
+<p>Section explains about the hardware and software requirements for accessing application and user access levels.</p> System Summary section explains about the hardware and software requirements for accessing Pick Fresh application and user access levels.
+  
   <ul>How to download application</ul>
-<p>Section explains the options available to download the pick fresh Android application in your mobile.</p>
+<p>Section explains the options available to download the pick fresh Android application in your mobile.</p> Requires a smart phone with Android operating system (OS)
+The minimum Android version should be 4.0.3 and up to avail all the features in the application.To download and use the functionalities of Pick fresh mobile app, you require an Internet connection in your mobile.
+**Google play store**
+Open Play Store application on your mobile by clicking on the Play Store icon as shown in the image.
+  
+  ![USER MANUL](https://user-images.githubusercontent.com/115916696/197708862-63df0988-e083-4909-891c-8af62cec8cd5.jpg)
+    
   <ul>Using the application</ul>
 <p>Section provides a detailed description of the functionalities of the pick fresh application.</p>
 </ol>
+
+
 
 
