@@ -19,6 +19,7 @@
 <li>Pick Fresh Portal</li>
 </ol>
 </ol>
+
 <ol>
 <li> General Information</li>
 General information section explains in general terms the Pick Fresh application overview and the sections of the user manual.
@@ -26,7 +27,6 @@ General information section explains in general terms the Pick Fresh application
 <li>Application Overview</li>
 Pick Fresh application is for grocery and daily needs shopping.
 <li>Organisation Manual</li>
-
 User manual consists of the following sections
 <ul>
 <li> General Information </li>
@@ -35,7 +35,14 @@ User manual consists of the following sections
 <li> Guest User-Privilege</li>
 <li> Registered User-Privilege</li>
 </ul>
-#### General Information
-Section explains in general terms the pick fresh application overview and the sections of the user manual.
-#### System Summary
-Section explains about the hardware and software requirements for accessing application and user access levels.
+</ol>
+  </ol>
+### General Information
+<p>Section explains in general terms the pick fresh application overview and the sections of the user manual.</p>
+### System Summary
+<p>Section explains about the hardware and software requirements for accessing application and user access levels.</p>
+### How to download application
+<p>Section explains the options available to download the pick fresh Android application in your mobile.</p>
+### Using the application
+<p>Section provides a detailed description of the functionalities of the pick fresh application.</p>
+
