@@ -2,6 +2,14 @@
 # PICK FRESH
 ### Veggies and  Grocery
 # **Table Of Contents**
+|S.No|Content Name|
+|---|------------------------------------------|
+|1|General Information|
+|2|System Summary|
+|3|How To Download Application|
+
+
+
 <ol>
 <li> General Information</li>
 <ol>
@@ -46,14 +54,23 @@ User manual consists of the following sections
   <ul>How to download application</ul>
 <p>Section explains the options available to download the pick fresh Android application in your mobile.</p> Requires a smart phone with Android operating system (OS)
 The minimum Android version should be 4.0.3 and up to avail all the features in the application.To download and use the functionalities of Pick fresh mobile app, you require an Internet connection in your mobile.
+  
 **Google play store**
 Open Play Store application on your mobile by clicking on the Play Store icon as shown in the image.
   
   ![USER MANUL](https://user-images.githubusercontent.com/115916696/197708862-63df0988-e083-4909-891c-8af62cec8cd5.jpg)
-    
+      
   <ul>Using the application</ul>
 <p>Section provides a detailed description of the functionalities of the pick fresh application.</p>
 </ol>
+
+One can access and oder from our website.
+<www.pickfresh.co.in>
+
+contact Information
+<p> Customer care:9999999999</p>
+
+email: <pf@example.com>
 
 
 
